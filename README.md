@@ -1,16 +1,19 @@
 # Custom Admin Scripts
 
-![PowerShell](https://img.shields.io/badge/PowerShell-7+-blue?logo=powershell) ![Status](https://img.shields.io/badge/Status-Custom-orange) ![License](https://img.shields.io/badge/License-None-lightgrey)
+![PowerShell](https://img.shields.io/badge/PowerShell-7+-blue?logo=powershell) 
+![Bash](https://img.shields.io/badge/Bash-Zsh%2FShell-lightgrey?logo=gnu-bash) 
+![Status](https://img.shields.io/badge/Status-Custom-orange) 
+![License](https://img.shields.io/badge/License-None-lightgrey)
 
 ## Overview
 
-These scripts are **custom-built for personal and exploratory use**, designed to help audit, manage, and report on various IT environments.  
+These scripts are **custom-built for personal and exploratory use**, designed to help automate, audit, and manage various IT environments.  
 
 Currently, scripts include functionality for:
 
-- **Azure**: auditing managed and unmanaged disks, VMs, VM Scale Sets (VMSS), orphaned disks, and migration flags.  
-- **Jamf Pro**: device and inventory management (additional scripts may be added).  
-- Other environments or tools may be included in the future.
+- **Azure**: Scripts that can interact with or audit Microsoft Resources (i.e. such as VMs).
+- **Jamf Pro**: Scripts that can interact with or audit device and inventory management.
+- **Miscellaneous**: Other environments or tools may be included in the future.
 
 The scripts are tailored to real-world scenarios and workflows, helping to **automate repetitive tasks, generate reports, and flag items for further action**.
 
@@ -40,7 +43,8 @@ I welcome contributions and suggestions:
 ## Usage Tips
 
 - Some scripts require **PowerShell 7+** (especially those using parallel processing).  
-- Ensure any required modules or dependencies are installed before running.  
+- Other scripts may be designed for **Bash, Zsh, or other shells**.  
+- Ensure any required modules, tools, or dependencies are installed before running.  
 - Scripts may work across **multi-tenant or multi-system environments**, but always verify access and permissions first.  
 - Output is typically in **CSV or Excel** for easier reporting and analysis.  
 

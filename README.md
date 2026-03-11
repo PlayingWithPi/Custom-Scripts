@@ -1,10 +1,10 @@
 # Custom Admin Scripts
 
-![PowerShell](https://img.shields.io/badge/PowerShell-7+-blue?logo=powershell) 
-![Bash](https://img.shields.io/badge/Bash-Zsh%2FShell-lightgrey?logo=gnu-bash) 
-![JS](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
-![Status](https://img.shields.io/badge/Status-Custom-orange) 
-![License](https://img.shields.io/badge/License-None-lightgrey)
+![PowerShell](https://img.shields.io/badge/PowerShell-7%2B-blue?style=flat&logo=powershell)
+![Bash](https://img.shields.io/badge/Bash-Zsh%2FShell-lightgrey?style=flat&logo=gnu-bash)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat&logo=javascript)
+![Status](https://img.shields.io/badge/Status-Custom-orange?style=flat)
+![License](https://img.shields.io/badge/License-None-lightgrey?style=flat)
 
 ## Overview
 

@@ -2,7 +2,7 @@
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-7+-blue?logo=powershell) 
 ![Bash](https://img.shields.io/badge/Bash-Zsh%2FShell-lightgrey?logo=gnu-bash) 
-![JS](https://img.shields.io/badge/javascript-blue?logo=javascript)
+![JS](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 ![Status](https://img.shields.io/badge/Status-Custom-orange) 
 ![License](https://img.shields.io/badge/License-None-lightgrey)
 
